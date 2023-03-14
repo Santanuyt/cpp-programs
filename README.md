@@ -1,2 +1,2 @@
 # cpp-programs
-c++
+C++
